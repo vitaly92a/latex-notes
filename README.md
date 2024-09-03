@@ -13,3 +13,7 @@ Like this: $f(x) = sin(x) + cos(x)$
 Also there is the tool whitch allows users to create diagrams and illustrations that have a hand-drawn feel, making them visually appealing and easy to understand.
 
 The [Excalidraw](https://excalidraw.com) allows users to export their creations in various formats, including PNG and SVG, making it easy to integrate the drawings into other documents or presentations. This is a powerful tool for visual communication, offering a unique blend of simplicity, collaboration, and versatility that enhances the way ideas are shared and developed.
+
+## The Sections
+
+- [mathematics](./mathematics/mathematics-content.md) - the Mathematics Problem Solution Section
